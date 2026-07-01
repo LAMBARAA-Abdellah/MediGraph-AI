@@ -1,13 +1,4 @@
 # MediGraph AI
-
-**Intelligent Multi-Agent Clinical Orientation System using LangGraph, LangChain, FastAPI and MCP**
-
-> ⚠️ **Educational Project Only** — This system does NOT provide medical diagnosis and does NOT replace healthcare professionals.
-
-> **Disclaimer:** *This system does not replace a professional medical consultation.*
-
----
-
 ## Overview
 
 MediGraph AI simulates an academic clinical workflow using multiple AI agents coordinated through LangGraph. The platform provides **Preliminary Clinical Orientation**, **Clinical Summary**, and **Intermediate Recommendation** — never medical diagnosis.
