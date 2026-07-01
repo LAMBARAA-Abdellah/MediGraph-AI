@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "medigraph": "./backend/app/graph.py:graph"
+  },
+  "env": ".env",
+  "python_version": "3.12"
+}
